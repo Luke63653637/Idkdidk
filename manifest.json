@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Custom loading screen title by SpruceMan90",
+    "name": "Super SkyGen Loading Title",
+    "uuid": "d15a9d50-76e1-4f9a-9b4e-89c3b4574b1a",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 14, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "c6d24819-8e8c-4e8d-b7cb-eec4f6a8f883",
+      "version": [1, 0, 0]
+    }
+  ]
+}
